@@ -47,10 +47,6 @@ The following tools were utilized during the development of this project:
 - Git
 - Netlify
 
-## Screen Shoot
-
-![image](https://github.com/Prakash-V-S/Redux---Price-Card/assets/141955456/9e843cc7-034e-4f7e-aba4-e0796559a03e)
-
 ## Setup
 
 To run this project, ensure you have the following installed:
